@@ -13,7 +13,14 @@ https://sites.google.com/site/soccerjudo10/paper-tower-challenge?pli=1
 - Need an adhesive: friction
 
 ## **Ideation**
+Method 1: Stepped tower method
+1. Start by cutting the paper in half.
+2. Fold both papers in half.
+3. Open up one folded piece of paper and set it on a table.
+4. Add some small pieces of paper on top for a flat surface.
+5. Stack on top of each other.
 
+Method 2: Standing book method
 1. Cut the paper in half.
 2. Cut one half in half.
 3. Cut that half in half for 4 total pieces.
