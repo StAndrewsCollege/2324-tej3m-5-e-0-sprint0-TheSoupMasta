@@ -30,7 +30,7 @@ Method 2: Standing book method
 
 
 ## **Prototyping**
-![image](.\IMG_2925.HEIC)
+![image](IMG_2925.jpg)
 Method 2 tower, remained stable for more than 30 seconds and measured at 107.2cm
 
 ## **Testing and Critique**
