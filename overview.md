@@ -33,8 +33,10 @@ Final design
 2. Cut one half in half.
 3. Cut that half in half for 4 total pieces.
 4. Fold all in half.
-5. Cut a slit in the bottom vertically
-6. Use the slits as friction adhesives by slotting them into the bottom piece of paper that is standing vertically by opening the middle fold from step 4 slightly.
+5. Cut a slit in the bottom vertically of all papers except for the largest piece.
+6. Stand the largest piece up on a flat surface.
+7. Mount the second largest piece on top of the largest piece by opening the fold and attaching it in the opposite direction.
+8. Use the slits as friction adhesives by slotting them into the bottom piece of paper that is standing vertically by opening the middle fold from step 4 slightly.
    
 ## **Conclusion**
 Overall, this was moderately successful. It was not very stable but did provide enough stability to stay up on its own for a length of time (>30s).
